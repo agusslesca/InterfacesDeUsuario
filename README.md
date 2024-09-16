@@ -1,2 +1,6 @@
 # InterfacesDeUsuario
-Interfaces_De_Usuario_2024
+Trabajo Practico Nro 1 
+Integrantes :
+-Lucas Ayala
+-Agustin Lescano
+-Leplace Gian Franco
